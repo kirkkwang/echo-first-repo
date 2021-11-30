@@ -5,3 +5,8 @@
 ### This text should be smaller now, woooo
 
 #### Adding another line and pushing
+Awesome Echo class team members:ß
+-Noah
+-Regina
+-Samantha
+-Raul
