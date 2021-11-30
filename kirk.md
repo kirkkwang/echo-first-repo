@@ -15,3 +15,17 @@ Awesome Echo class team members
 *Don't mind me, just testing out italics*
 
 **Now I'm checking to see how bolding works**
+
+Apparently `GitHub` has code block language support, let's test:
+
+```ruby
+puts "Hello, world!"
+```
+
+```python
+print("Hello, world!")
+```
+
+```javascript
+console.log("Hello, world!")
+```
