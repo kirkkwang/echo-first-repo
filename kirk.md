@@ -11,3 +11,7 @@ Awesome Echo class team members
 - Regina
 - Samantha
 - Raul
+
+*Don't mind me, just testing out italics*
+
+**Now I'm checking to see how bolding works**
