@@ -33,6 +33,6 @@ print("Hello, world!")
 console.log("Hello, world!")
 ```
 ---
-Now let's try and add a button!
+Now let's try a picture!
 
-<button class="button-save large">Big Fat Button</button>
+![Echo from Bad Batch](https://lumiere-a.akamaihd.net/v1/images/echo-main_a2e22de6.jpeg)
