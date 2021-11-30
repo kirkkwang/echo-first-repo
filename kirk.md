@@ -19,13 +19,16 @@ Awesome Echo class team members
 Apparently `GitHub` has code block language support, let's test:
 
 ```ruby
+# Ruby
 puts "Hello, world!"
 ```
 
 ```python
+# Python
 print("Hello, world!")
 ```
 
 ```javascript
+// Javascript
 console.log("Hello, world!")
 ```
